@@ -8,6 +8,6 @@ terraform {
 }
 
 provider "aws" {
-    region = "aws-eat-1"
+    region = "aws-eat-2"
   
 }
